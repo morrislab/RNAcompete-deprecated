@@ -1,4 +1,4 @@
-# RNAcompete #
+# RNAcompete (deprecated) #
 
 Data analysis scripts for RNAcompete.
 
