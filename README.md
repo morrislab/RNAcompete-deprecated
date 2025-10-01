@@ -1,6 +1,8 @@
 # RNAcompete (deprecated) #
 
-Data analysis scripts for RNAcompete.
+### This repository is no longer maintained! 
+
+**Please use the actively maintained pipeline here**: <br>[**https://github.com/morrislab/rnacompete**](https://github.com/morrislab/rnacompete)
 
 ## Input file ##
 
